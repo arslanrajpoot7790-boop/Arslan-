@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Aero Smart Watch",
+      "category": "Electronics",
+      "price": 24999,
+      "originalPrice": 32999,
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=900&q=80",
+      "badge": "Hot Deal",
+      "rating": 4.8,
+      "reviewCount": 214,
+      "stock": 8,
+      "description": "A premium smartwatch with health tracking, GPS, and all-day battery life for busy routines.",
+      "features": ["GPS + heart rate tracking", "5 ATM water resistance", "Up to 7-day battery"],
+      "colors": ["Midnight", "Silver", "Rose"],
+      "sizes": ["38mm", "42mm", "46mm"]
+    },
+    {
+      "id": 2,
+      "name": "Nova Everyday Jacket",
+      "category": "Men",
+      "price": 8999,
+      "originalPrice": 11999,
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+      "badge": "Best Seller",
+      "rating": 4.7,
+      "reviewCount": 128,
+      "stock": 14,
+      "description": "Lightweight layering with a clean silhouette and durable finish for daily wear.",
+      "features": ["Water-resistant finish", "Soft brushed inside", "Easy everyday fit"],
+      "colors": ["Stone", "Black", "Olive"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 3,
+      "name": "Luna Silk Dress",
+      "category": "Women",
+      "price": 7499,
+      "originalPrice": 9999,
+      "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+      "badge": "New",
+      "rating": 4.9,
+      "reviewCount": 176,
+      "stock": 5,
+      "description": "A flowy silhouette that balances classic elegance with a relaxed, modern feel.",
+      "features": ["Soft-sheen satin touch", "Easy drape and comfort", "Ideal for day-to-night"],
+      "colors": ["Blush", "Ivory", "Navy"],
+      "sizes": ["XS", "S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "name": "Echo Wireless Speaker",
+      "category": "Electronics",
+      "price": 15999,
+      "originalPrice": 21999,
+      "image": "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd?auto=format&fit=crop&w=900&q=80",
+      "badge": "Limited",
+      "rating": 4.6,
+      "reviewCount": 87,
+      "stock": 3,
+      "description": "Deep sound, modern build, and portable battery power perfect for home or travel.",
+      "features": ["360° sound", "12-hour playtime", "Bluetooth 5.3"],
+      "colors": ["Charcoal", "Sand"],
+      "sizes": ["Standard"]
+    },
+    {
+      "id": 5,
+      "name": "Serein Urban Tote",
+      "category": "Women",
+      "price": 4999,
+      "originalPrice": 6999,
+      "image": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=900&q=80",
+      "badge": "Top Rated",
+      "rating": 4.9,
+      "reviewCount": 336,
+      "stock": 18,
+      "description": "Roomy, structured, and easy to carry with a premium finish for daily city outings.",
+      "features": ["Large capacity", "Sturdy straps", "Water-repellent outer layer"],
+      "colors": ["Cream", "Camel", "Black"],
+      "sizes": ["One Size"]
+    },
+    {
+      "id": 6,
+      "name": "Summit Travel Backpack",
+      "category": "Men",
+      "price": 6799,
+      "originalPrice": 8999,
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+      "badge": "Sale",
+      "rating": 4.8,
+      "reviewCount": 92,
+      "stock": 11,
+      "description": "A durable everyday backpack that fits work essentials and quick weekend escapes.",
+      "features": ["Laptop sleeve", "Hidden pockets", "Waterproof base"],
+      "colors": ["Forest", "Graphite"],
+      "sizes": ["Regular"]
+    }
+  ],
+  "subscribers": [],
+  "orders": [
+    {
+      "id": "NL-MUCLJDOP",
+      "customer": {
+        "name": "fijg",
+        "email": "jfekhidguihvb@gmail.com",
+        "address": "ndfojvycngtfbrftecygndusb , gchddvbufjnbv, bvfghfcbv ghcd"
+      },
+      "items": [
+        {
+          "productId": 2,
+          "name": "Studio ceramic mug",
+          "price": 28,
+          "quantity": 1
+        }
+      ],
+      "total": 28,
+      "status": "received",
+      "createdAt": "2026-09-22T11:34:10.441Z"
+    }
+  ],
+  "users": []
+}
